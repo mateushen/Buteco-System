@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "98579812824",
+    "project_id": "buteco-system",
+    "storage_bucket": "buteco-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98579812824:android:90046088e08a1af7e6a2ad",
+        "android_client_info": {
+          "package_name": "com.butecosystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98579812824-eu4f6pm8kt1dlhm8l03ln1q154i1cdcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMysTilzOYS5Q_jRMjhF6Rj1Rt3B8kQuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98579812824-eu4f6pm8kt1dlhm8l03ln1q154i1cdcf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98579812824-t00sm0cko4oi4evcpmr0i3dks0cqjp8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.butecosystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

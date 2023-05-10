@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "buteco-system",
+    "slug": "buteco-system",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.butecosystem",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.butecosystem",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
+  }
+}
